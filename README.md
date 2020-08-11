@@ -1,3 +1,5 @@
+## The website contains very good MVC sepearation and good content management. It isn't a template, but can be used as an inspiration for clean code design.
+
 <div align="center">
   <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/master/src/images/logo.png" width="100" />
 </div>
